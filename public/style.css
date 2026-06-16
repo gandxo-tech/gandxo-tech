@@ -1,0 +1,5 @@
+body { font-family: system-ui, sans-serif; margin: 0; background: #eef2f5; }
+#hud { display:flex; gap:12px; padding:12px; }
+canvas { background: #fff; border: 1px solid #ccc; }
+#leaderboard { width:160px; padding:8px; background:#fff; border:1px solid #ccc; height:600px; overflow:auto; }
+#leaderboard h3 { margin:0 0 8px 0; }

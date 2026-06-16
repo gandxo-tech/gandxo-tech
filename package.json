@@ -1,0 +1,14 @@
+{
+  "name": "gdxgame-prototype",
+  "version": "1.0.0",
+  "description": "Prototype multijoueur top-down (Node + socket.io)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
