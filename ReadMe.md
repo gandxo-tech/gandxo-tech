@@ -1,0 +1,27 @@
+# 💫 About Me:
+Hi, I'm Gandxo<br><br>Developer & Builder from Benin.<br><br>I build digital products across web, Android, and AI — turning ideas into real, usable software.<br><br>🔭 I’m currently working on<br><br>SIS — Say It Safely, an anonymous messaging platform, and ToonIA, an AI-powered webtoon creation project.<br><br>I'm also experimenting with new product ideas and exploring ways to turn small concepts into scalable applications.<br><br>👯 I’m looking to collaborate on<br><br>Projects involving AI, web development, Android, developer tools, and innovative digital products.<br><br>I'm especially interested in working with people who like building, experimenting, and shipping rather than just talking about ideas.<br><br>🤝 I’m looking for help with<br><br>Going deeper into software architecture, machine learning, computer vision, and building applications that can scale beyond the prototype stage.<br><br>🌱 I’m currently learning<br><br>Artificial Intelligence · Machine Learning · Computer Vision · Advanced Android Development · Backend Engineering<br><br>I’m constantly exploring new technologies by building projects with them.<br><br>💬 Ask me about<br><br>Kotlin, Jetpack Compose, JavaScript, Firebase, AI APIs, Android development, web applications, or turning an idea into a working MVP.<br><br>⚡ Fun fact<br><br>I don't really like learning technology just for the sake of learning it.<br><br>Give me an idea, and I'll probably try to build it.<br><br>---<br><br>Building from Benin, thinking globally.
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Obxma Gbaguidi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Richx_land) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gbaguidiexauce@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=gandxo-tech &theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=gandxo-tech &theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gandxo-tech &theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gandxo-tech &theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gandxo-tech &limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=gandxo-tech &icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
