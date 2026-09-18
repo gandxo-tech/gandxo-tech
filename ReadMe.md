@@ -1,26 +1,117 @@
-# 💫 About Me:
-Hi, I'm Gandxo<br><br>Developer & Builder from Benin.<br><br>I build digital products across web, Android, and AI — turning ideas into real, usable software.<br><br>🔭 I’m currently working on<br><br>SIS — Say It Safely, an anonymous messaging platform, and ToonIA, an AI-powered webtoon creation project.<br><br>I'm also experimenting with new product ideas and exploring ways to turn small concepts into scalable applications.<br><br>👯 I’m looking to collaborate on<br><br>Projects involving AI, web development, Android, developer tools, and innovative digital products.<br><br>I'm especially interested in working with people who like building, experimenting, and shipping rather than just talking about ideas.<br><br>🤝 I’m looking for help with<br><br>Going deeper into software architecture, machine learning, computer vision, and building applications that can scale beyond the prototype stage.<br><br>🌱 I’m currently learning<br><br>Artificial Intelligence · Machine Learning · Computer Vision · Advanced Android Development · Backend Engineering<br><br>I’m constantly exploring new technologies by building projects with them.<br><br>💬 Ask me about<br><br>Kotlin, Jetpack Compose, JavaScript, Firebase, AI APIs, Android development, web applications, or turning an idea into a working MVP.<br><br>⚡ Fun fact<br><br>I don't really like learning technology just for the sake of learning it.<br><br>Give me an idea, and I'll probably try to build it.<br><br>---<br><br>Building from Benin, thinking globally.
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · gandxo-tech</sub></p>
+<h1>Gandxo tech</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Welcome</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ObxmaGbaguidi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Richx_land) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gbaguidiexauce@gmail.com) 
+<p><a href="https://github.com/gandxo-tech">GitHub</a> &nbsp;·&nbsp; <a href="https://sis-say-it-safely-pi.vercel.app/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=gandxo-tech&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190258168%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=gandxo-tech&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190258168%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Gandxo tech animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gandxo-tech &theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gandxo-tech)](https://git.io/streak-stats)
-<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gandxo-tech &theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h2>What teams can evaluate quickly</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gandxo-tech &theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Kotlin · JavaScript · Jupyter Notebook</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>30 repositories · 11 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>993 contributions · 132 active days</p></td>
+</tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p><sub>Welcome</sub></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gandxo-tech &limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<h2>Proof at a glance</h2>
 
----
-[![](https://komarev.com/ghpvc/?username=gandxo-tech &icon=0&color=1)](https://visitcount.itsvg.in)
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>30</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>11</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>993</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>11</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=gandxo-tech&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190258168%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=gandxo-tech&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190258168%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Gandxo tech GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=gandxo-tech&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190258168%3Fv%3D4&repos=gandxo-tech%2FToon-IA-%2Cgandxo-tech%2FRemX%2Cgandxo-tech%2FTheSIS%2Cgandxo-tech%2FSt-Valentin-&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=gandxo-tech&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190258168%3Fv%3D4&repos=gandxo-tech%2FToon-IA-%2Cgandxo-tech%2FRemX%2Cgandxo-tech%2FTheSIS%2Cgandxo-tech%2FSt-Valentin-&v=recruiter-projects-1&mode=dark" width="100%" alt="Gandxo tech selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/gandxo-tech/Toon-IA-">Toon-IA-</a></h3>
+<p>De webtoon au toon ia</p>
+<p><sub>Kotlin · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/gandxo-tech/Toon-IA-">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/gandxo-tech/RemX">RemX</a></h3><p>Une app qui sauv</p><p><sub>Kotlin · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/gandxo-tech/TheSIS">TheSIS</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/gandxo-tech/St-Valentin-">St-Valentin-</a></h3><p>A selected public project.</p><p><sub>CSS · ⭐ 1</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=gandxo-tech&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190258168%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=gandxo-tech&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190258168%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Gandxo tech technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Kotlin</strong><br /><sub>35% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>19% of public code</sub></td>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>18% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>17% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>11% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=gandxo-tech&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190258168%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=gandxo-tech&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190258168%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Gandxo tech contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/gandxo-tech">GitHub</a><br /><a href="https://sis-say-it-safely-pi.vercel.app/">Website</a></td>
+</tr>
+</table>
+
